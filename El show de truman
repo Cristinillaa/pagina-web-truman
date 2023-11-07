@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+
+<html lang="es-ES">
+
+<head>
+
+<meta charset="utf-8">
+
+<title>El show de truman</title>
+
+</head>
+
+<body>
+
+<img src="https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2015/11/06/18/52581281.jpg" width="230">
+
+<font face="arial" size="25" color="red">EL SHOW DE TRUMAN:</font>
+
+<hr size="5px" color="red" />
+
+<font face="arial" size="5" color="white">Protagonizado por Jim Carrey</font>
+
+<title>Ejemplo de párrafo rojo y centrado</title>
+
+    <style>
+
+      p { color:black;
+
+        text-align:center;
+
+      }
+
+    </style>
+
+<P>Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde
+nunca pasa nada. Sin embargo, de repente, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo.
+ Todos sus amigos son actores, toda su ciudad es un plató, toda su vida está siendo filmada y emitida como el reality más
+ambicioso de la historia.</P>
+
+<p> Puedes ver esta pelicula si pinchas en el siguiente enlace:</p>
+<p><a href="https://www.primevideo.com/detail/The-Truman-Show/0KIU9370O8HJ68L0MBW7E6UA4H/ref=atv_nb_lcl_es_ES?language=es_ES&ie=UTF8
+">El show de Truman en Prime Video</a> </p>
+
+<p> Algunos de los personajes más importantes de esta película son:</p>
+
+<table border="1" bgcolor="white">
+
+  <tr>
+
+<th>Personajes </th>
+
+<th>Actores</th>
+
+
+
+</tr>
+
+<tr>
+
+<td>Truman</td>
+
+<td>Jim Carrey</td>
+
+
+
+</tr>
+
+<tr>
+
+<td>Christof</td>
+
+<td>Ed Harris</td>
+
+
+
+</tr>
+
+<tr>
+
+<td>Lauren</td>
+
+<td>Natascha</td>
+
+
+
+</tr>
+
+<tr>
+
+<td>His mother</td>
+
+<td>Holland Taylor</td>
+
+
+
+</tr>
+	
+
+
+<body align="center" bgcolor="pink">
+
+</body>
+
+</html>
